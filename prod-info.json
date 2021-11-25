@@ -1,0 +1,24 @@
+[
+    {
+        "img" : "https://static-it.gamestop.it/images/products/303685/2med.jpg",
+        "title" : "FIFA 22",
+        "platform" : "Xbox",
+        "link" : "https://www.gamestop.it/XboxSeries/Games/134290/fifa-22",
+        "presell" : "false"
+    },
+    {
+        "img" : "https://static-it.gamestop.it/images/products/303681/2med.jpg",
+        "title" : "FIFA 22",
+        "platform" : "Ps4",
+        "link" : "https://www.gamestop.it/PS4/Games/134288/fifa-22",
+        "presell" : "true"
+    },
+    {
+        "img" : "https://static-it.gamestop.it/images/products/303679/2med.jpg",
+        "title" : "FIFA 22",
+        "platform" : "Ps5",
+        "link" : "https://www.gamestop.it/PS5/Games/134287/fifa-22",
+        "presell" : "false"
+    }
+    
+]
